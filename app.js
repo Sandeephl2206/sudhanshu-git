@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h1>version two</h1>
+=======
+<h1>version one</h1>
+>>>>>>> v1
 </body>
 </html>
